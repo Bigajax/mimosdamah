@@ -1,0 +1,143 @@
+{
+  "origem": "_fonte/mimos",
+  "categorias": [
+    "Lábios",
+    "Olhos",
+    "Rosto",
+    "Pincéis e acessórios",
+    "Perfumaria"
+  ],
+  "itens": [
+    {
+      "nome": "Lip Plumper Gloss Vivai",
+      "categoria": "Lábios",
+      "marca": "Vivai",
+      "local": "02.jpg",
+      "descricao": "Lábios com volume e muito brilho. Volume instantâneo, fórmula com menta, brilho intenso, com D-Pantenol, dermatologicamente testado. Perfeito sozinho ou por cima do seu batom favorito.",
+      "destaque": true,
+      "real": true
+    },
+    {
+      "nome": "Marshmallow Blush Body Splash",
+      "categoria": "Perfumaria",
+      "marca": "Paris Corner",
+      "local": "03.jpg",
+      "descricao": "O cheirinho doce que conquista em cada borrifada. Fragrância adocicada, doce, leve e refrescante, perfeita para o dia a dia. Mais que um perfume, um carinho para a sua pele.",
+      "destaque": true,
+      "real": true
+    },
+    {
+      "nome": "Batom matte",
+      "categoria": "Lábios",
+      "busca": "lipstick",
+      "descricao": "Cor cheia, acabamento seco e conforto o dia inteiro. Várias cores."
+    },
+    {
+      "nome": "Gloss labial",
+      "categoria": "Lábios",
+      "busca": "lip gloss tube",
+      "descricao": "Brilho molhado, com ou sem cor. Para usar sozinho ou por cima do batom."
+    },
+    {
+      "nome": "Lápis de boca",
+      "categoria": "Lábios",
+      "busca": "lip liner pencil",
+      "descricao": "Contorna e segura o batom no lugar. Cores nude e rosa."
+    },
+    {
+      "nome": "Hidratante labial",
+      "categoria": "Lábios",
+      "busca": "lip balm tin",
+      "descricao": "Para lábios macios antes da make, com cheirinho."
+    },
+    {
+      "nome": "Máscara de cílios",
+      "categoria": "Olhos",
+      "busca": "mascara cosmetics",
+      "descricao": "Alonga, dá volume e não borra. O item que mais sai.",
+      "destaque": true
+    },
+    {
+      "nome": "Delineador líquido",
+      "categoria": "Olhos",
+      "busca": "eyeliner cosmetics",
+      "descricao": "Ponta fina para o gatinho perfeito, preto intenso."
+    },
+    {
+      "nome": "Paleta de sombras",
+      "categoria": "Olhos",
+      "busca": "eyeshadow palette pink",
+      "descricao": "Tons rosa, nude e marrom, com brilho e matte. Do dia à noite.",
+      "destaque": true
+    },
+    {
+      "nome": "Lápis de olho",
+      "categoria": "Olhos",
+      "busca": "kajal eye pencil",
+      "descricao": "Preto ou marrom, macio e fácil de esfumar.",
+      "fonte": "commons"
+    },
+    {
+      "nome": "Cílios postiços",
+      "categoria": "Olhos",
+      "busca": "false eyelashes",
+      "descricao": "Efeito natural ou dramático, com cola. Para a festa."
+    },
+    {
+      "nome": "Pó compacto",
+      "categoria": "Rosto",
+      "busca": "compact powder makeup",
+      "descricao": "Sela a base, tira o brilho e cabe na bolsa."
+    },
+    {
+      "nome": "Blush",
+      "categoria": "Rosto",
+      "busca": "blush cosmetics",
+      "descricao": "Aquele rosado de quem acabou de chegar. Rosa, pêssego e coral.",
+      "destaque": true
+    },
+    {
+      "nome": "Iluminador",
+      "categoria": "Rosto",
+      "busca": "highlighter cosmetics",
+      "descricao": "Brilho no ponto certo: maçã do rosto, nariz e arco do cupido."
+    },
+    {
+      "nome": "Kit de pincéis",
+      "categoria": "Pincéis e acessórios",
+      "busca": "makeup brushes set pink",
+      "descricao": "Pincéis para base, pó, blush e sombra, com cerdas macias.",
+      "destaque": true
+    },
+    {
+      "nome": "Esponja de maquiagem",
+      "categoria": "Pincéis e acessórios",
+      "busca": "makeup sponge",
+      "descricao": "Para espalhar base e corretivo sem marcar."
+    },
+    {
+      "nome": "Nécessaire",
+      "categoria": "Pincéis e acessórios",
+      "busca": "makeup bag pouch",
+      "descricao": "Para levar a make na bolsa ou na viagem."
+    },
+    {
+      "nome": "Espelho de bolsa",
+      "categoria": "Pincéis e acessórios",
+      "busca": "compact mirror",
+      "descricao": "Pequeno, com duas faces, para o retoque."
+    },
+    {
+      "nome": "Esmalte",
+      "categoria": "Perfumaria",
+      "busca": "nail polish bottles pink",
+      "descricao": "Cores da estação, secagem rápida."
+    },
+    {
+      "nome": "Body splash",
+      "categoria": "Perfumaria",
+      "busca": "body mist",
+      "descricao": "Perfume leve para o dia a dia, em várias fragrâncias."
+    }
+  ]
+}

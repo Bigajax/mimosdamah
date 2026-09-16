@@ -1,0 +1,627 @@
+{
+  "categorias": [
+    {
+      "id": "c-labios",
+      "nome": "Lábios",
+      "slug": "labios",
+      "ordem": 1,
+      "ativo": true,
+      "capa": "/produtos/lip-plumper-gloss-vivai.webp",
+      "capaBlur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoKAAwAA4BaJaACdAD0QW/9zsAAzj6oLB/xU3oQa51zSs/z6ES6crrdIqfd33ZX3HUqj0HvgKVbnrQ8qJSbYi1Cy23dm8HcYtYiiWAA"
+    },
+    {
+      "id": "c-olhos",
+      "nome": "Olhos",
+      "slug": "olhos",
+      "ordem": 2,
+      "ativo": true,
+      "capa": "/produtos/mascara-de-cilios.webp",
+      "capaBlur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoMAAgAA4BaJYwC7AEDeTQrsgAA/thxuItUXFJdkRUZkBPKHTxBhpr/cSujZPk+dLAeaVyF0cWyKICUg4gcSan7r4GiAAAA"
+    },
+    {
+      "id": "c-rosto",
+      "nome": "Rosto",
+      "slug": "rosto",
+      "ordem": 3,
+      "ativo": true,
+      "capa": "/produtos/blush.webp",
+      "capaBlur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoJAAwAA4BaJZgCdADzVM6wAP7AfrHbgTN6Ei8r6Tg6S+F1QWuESY0ScGDAdMbsXCXKV+9b+Fnuk/NcMlvSQZ9g/CSAAA=="
+    },
+    {
+      "id": "c-pinceis-e-acessorios",
+      "nome": "Pincéis e acessórios",
+      "slug": "pinceis-e-acessorios",
+      "ordem": 4,
+      "ativo": true,
+      "capa": "/produtos/kit-de-pinceis.webp",
+      "capaBlur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMAAgAA4BaJQBWACBvevR944AA/tegCol34j3Mii0q+zTTCIPizd0/A+vhhYN4Dsg9bL5DDSH5ZZExkMQAAA=="
+    },
+    {
+      "id": "c-perfumaria",
+      "nome": "Perfumaria",
+      "slug": "perfumaria",
+      "ordem": 5,
+      "ativo": true,
+      "capa": "/produtos/marshmallow-blush-body-splash.webp",
+      "capaBlur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwAgCdASoMAAwAA4BaJbAC7AELYFuxPaVwAAD+79IuIalHaNgTSuIeNMWGveSo5giKubSPe3+cfOq4aB1PwLfnNQvp/Y4E0KtOmLAAAAA="
+    }
+  ],
+  "produtos": [
+    {
+      "id": "p-001",
+      "codigo": "MM-0001",
+      "nome": "Lip Plumper Gloss Vivai",
+      "slug": "lip-plumper-gloss-vivai",
+      "descricao": "Lábios com volume e muito brilho. Volume instantâneo, fórmula com menta, brilho intenso, com D-Pantenol, dermatologicamente testado. Perfeito sozinho ou por cima do seu batom favorito.",
+      "marca": "Vivai",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "labios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": true,
+      "ativo": true,
+      "ordem": 1,
+      "imagens": [
+        {
+          "url": "/produtos/lip-plumper-gloss-vivai.webp",
+          "largura": 1080,
+          "altura": 1350,
+          "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoKAAwAA4BaJaACdAD0QW/9zsAAzj6oLB/xU3oQa51zSs/z6ES6crrdIqfd33ZX3HUqj0HvgKVbnrQ8qJSbYi1Cy23dm8HcYtYiiWAA",
+          "alt": "Lip Plumper Gloss Vivai",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-002",
+      "codigo": "MM-0002",
+      "nome": "Marshmallow Blush Body Splash",
+      "slug": "marshmallow-blush-body-splash",
+      "descricao": "O cheirinho doce que conquista em cada borrifada. Fragrância adocicada, doce, leve e refrescante, perfeita para o dia a dia. Mais que um perfume, um carinho para a sua pele.",
+      "marca": "Paris Corner",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "perfumaria",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": true,
+      "ativo": true,
+      "ordem": 2,
+      "imagens": [
+        {
+          "url": "/produtos/marshmallow-blush-body-splash.webp",
+          "largura": 1080,
+          "altura": 1080,
+          "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwAgCdASoMAAwAA4BaJbAC7AELYFuxPaVwAAD+79IuIalHaNgTSuIeNMWGveSo5giKubSPe3+cfOq4aB1PwLfnNQvp/Y4E0KtOmLAAAAA=",
+          "alt": "Marshmallow Blush Body Splash",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-003",
+      "codigo": "MM-0003",
+      "nome": "Batom matte",
+      "slug": "batom-matte",
+      "descricao": "Cor cheia, acabamento seco e conforto o dia inteiro. Várias cores.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "labios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 102,
+      "imagens": [
+        {
+          "url": "/produtos/batom-matte.webp",
+          "largura": 1024,
+          "altura": 683,
+          "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoMAAgAA4BaJQBOgBtjc0IAAPugAPqEKL+/4nMSaB2vbvJZmTa7HOkagDG1bnYWX2DYH5gPikjvGAmPFEoECQCN+5/XAAAA",
+          "alt": "Batom matte",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-004",
+      "codigo": "MM-0004",
+      "nome": "Gloss labial",
+      "slug": "gloss-labial",
+      "descricao": "Brilho molhado, com ou sem cor. Para usar sozinho ou por cima do batom.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "labios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 103,
+      "imagens": [
+        {
+          "url": "/produtos/gloss-labial.webp",
+          "largura": 1024,
+          "altura": 769,
+          "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoMAAkAA4BaJbAAAiH9rljgAP7z9x+M87HQ5oYSNP6HpyL33fcNzCb9uQWo7ycziwzXynuYmP9Wh2LIZEsc3yh/8HnewAAA",
+          "alt": "Gloss labial",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-005",
+      "codigo": "MM-0005",
+      "nome": "Lápis de boca",
+      "slug": "lapis-de-boca",
+      "descricao": "Contorna e segura o batom no lugar. Cores nude e rosa.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "labios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 104,
+      "imagens": [
+        {
+          "url": "/produtos/lapis-de-boca.webp",
+          "largura": 1023,
+          "altura": 680,
+          "blur": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoMAAgAA4BaJQBOgCKq3GFtgAD+QraQFVLVE6tHqrw0mgwfD5Pkjh02Zvnywak5hcAAAA==",
+          "alt": "Lápis de boca",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-006",
+      "codigo": "MM-0006",
+      "nome": "Hidratante labial",
+      "slug": "hidratante-labial",
+      "descricao": "Para lábios macios antes da make, com cheirinho.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "labios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 105,
+      "imagens": [
+        {
+          "url": "/produtos/hidratante-labial.webp",
+          "largura": 1024,
+          "altura": 683,
+          "blur": "data:image/webp;base64,UklGRi4AAABXRUJQVlA4ICIAAAAwAQCdASoMAAgAA4BaJaQAA3AA/vTp6/IeKIy2DRjqJAAA",
+          "alt": "Hidratante labial",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-007",
+      "codigo": "MM-0007",
+      "nome": "Máscara de cílios",
+      "slug": "mascara-de-cilios",
+      "descricao": "Alonga, dá volume e não borra. O item que mais sai.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "olhos",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": true,
+      "ativo": true,
+      "ordem": 3,
+      "imagens": [
+        {
+          "url": "/produtos/mascara-de-cilios.webp",
+          "largura": 1024,
+          "altura": 683,
+          "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoMAAgAA4BaJYwC7AEDeTQrsgAA/thxuItUXFJdkRUZkBPKHTxBhpr/cSujZPk+dLAeaVyF0cWyKICUg4gcSan7r4GiAAAA",
+          "alt": "Máscara de cílios",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-008",
+      "codigo": "MM-0008",
+      "nome": "Delineador líquido",
+      "slug": "delineador-liquido",
+      "descricao": "Ponta fina para o gatinho perfeito, preto intenso.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "olhos",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 107,
+      "imagens": [
+        {
+          "url": "/produtos/delineador-liquido.webp",
+          "largura": 1024,
+          "altura": 683,
+          "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoMAAgAA4BaJQBOgBtjc0IAAPugAPqEKL+/4nMSaB2vbvJZmTa7HOkagDG1bnYWX2DYH5gPikjvGAmPFEoECQCN+5/XAAAA",
+          "alt": "Delineador líquido",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-009",
+      "codigo": "MM-0009",
+      "nome": "Paleta de sombras",
+      "slug": "paleta-de-sombras",
+      "descricao": "Tons rosa, nude e marrom, com brilho e matte. Do dia à noite.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "olhos",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": true,
+      "ativo": true,
+      "ordem": 4,
+      "imagens": [
+        {
+          "url": "/produtos/paleta-de-sombras.webp",
+          "largura": 1024,
+          "altura": 683,
+          "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoMAAgAA4BaJYgCdAYrJZor6k4AAP7mSEddrfl6zxyKrLQjQgjiBWf/X3W9jRe3a1dnaKMLQt64WAIIw8FQM8vThrwAKM0zCcdL71f03tDC0hSAAAA=",
+          "alt": "Paleta de sombras",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-010",
+      "codigo": "MM-0010",
+      "nome": "Lápis de olho",
+      "slug": "lapis-de-olho",
+      "descricao": "Preto ou marrom, macio e fácil de esfumar.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "olhos",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 109,
+      "imagens": [
+        {
+          "url": "/produtos/lapis-de-olho.webp",
+          "largura": 1024,
+          "altura": 768,
+          "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoMAAkAA4BaJYgCdAECwOGcs/4AAPfW2blgohzEIp6vLOgZ2RjP/xHPO7f39EjZgxp7QGFA3DuuVlAwAAA=",
+          "alt": "Lápis de olho",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-011",
+      "codigo": "MM-0011",
+      "nome": "Cílios postiços",
+      "slug": "cilios-posticos",
+      "descricao": "Efeito natural ou dramático, com cola. Para a festa.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "olhos",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 110,
+      "imagens": [
+        {
+          "url": "/produtos/cilios-posticos.webp",
+          "largura": 1024,
+          "altura": 765,
+          "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMAAkAA4BaJbACdAEU9w6hYoAA4ge8Qsl5UYdDwrnAps0EfmWTRlEAv6PO15pvjpxNrYULMq+RIwD804C7A/mHnat3fNEWz8QNgAAA",
+          "alt": "Cílios postiços",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-012",
+      "codigo": "MM-0012",
+      "nome": "Pó compacto",
+      "slug": "po-compacto",
+      "descricao": "Sela a base, tira o brilho e cabe na bolsa.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "rosto",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 111,
+      "imagens": [
+        {
+          "url": "/produtos/po-compacto.webp",
+          "largura": 960,
+          "altura": 640,
+          "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoMAAgAA4BaJQBOgMXXtn5VVqd4APwYoYU6vxEvgthfXl2iOezgwkLXnwVXqY2l6eJN12KJEB1wqtqCfHO0DLn68t5iOhTAAAA=",
+          "alt": "Pó compacto",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-013",
+      "codigo": "MM-0013",
+      "nome": "Blush",
+      "slug": "blush",
+      "descricao": "Aquele rosado de quem acabou de chegar. Rosa, pêssego e coral.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "rosto",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": true,
+      "ativo": true,
+      "ordem": 5,
+      "imagens": [
+        {
+          "url": "/produtos/blush.webp",
+          "largura": 737,
+          "altura": 1023,
+          "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoJAAwAA4BaJZgCdADzVM6wAP7AfrHbgTN6Ei8r6Tg6S+F1QWuESY0ScGDAdMbsXCXKV+9b+Fnuk/NcMlvSQZ9g/CSAAA==",
+          "alt": "Blush",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-014",
+      "codigo": "MM-0014",
+      "nome": "Iluminador",
+      "slug": "iluminador",
+      "descricao": "Brilho no ponto certo: maçã do rosto, nariz e arco do cupido.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "rosto",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 113,
+      "imagens": [
+        {
+          "url": "/produtos/iluminador.webp",
+          "largura": 1024,
+          "altura": 683,
+          "blur": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoMAAgAA4BaJYwCw7Dc+wRzAAD++LpbuDlJGk6fgBTkfuhjYjdSi4MbwfE9X8cF6qKURmnyJbBUAAAA",
+          "alt": "Iluminador",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-015",
+      "codigo": "MM-0015",
+      "nome": "Kit de pincéis",
+      "slug": "kit-de-pinceis",
+      "descricao": "Pincéis para base, pó, blush e sombra, com cerdas macias.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "pinceis-e-acessorios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": true,
+      "ativo": true,
+      "ordem": 6,
+      "imagens": [
+        {
+          "url": "/produtos/kit-de-pinceis.webp",
+          "largura": 1024,
+          "altura": 683,
+          "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMAAgAA4BaJQBWACBvevR944AA/tegCol34j3Mii0q+zTTCIPizd0/A+vhhYN4Dsg9bL5DDSH5ZZExkMQAAA==",
+          "alt": "Kit de pincéis",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-016",
+      "codigo": "MM-0016",
+      "nome": "Esponja de maquiagem",
+      "slug": "esponja-de-maquiagem",
+      "descricao": "Para espalhar base e corretivo sem marcar.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "pinceis-e-acessorios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 115,
+      "imagens": [
+        {
+          "url": "/produtos/esponja-de-maquiagem.webp",
+          "largura": 1024,
+          "altura": 576,
+          "blur": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoMAAcAA4BaJbACdADhkumVgAD+5sXUKpUcvLhpf6mfUDyqn6tL7hsZBcl+QJAjFDxfMf3dAS0pGAAA",
+          "alt": "Esponja de maquiagem",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-017",
+      "codigo": "MM-0017",
+      "nome": "Nécessaire",
+      "slug": "necessaire",
+      "descricao": "Para levar a make na bolsa ou na viagem.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "pinceis-e-acessorios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 116,
+      "imagens": [
+        {
+          "url": "/produtos/necessaire.webp",
+          "largura": 960,
+          "altura": 960,
+          "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACQAQCdASoMAAwAA4BaJQAASlu1QCgA/vUHGoztceQ8/dWRQ4I0jikvonXA75A9hTqnko/gEp/4YYyxDpfyov9d+1PNVQAA",
+          "alt": "Nécessaire",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-018",
+      "codigo": "MM-0018",
+      "nome": "Espelho de bolsa",
+      "slug": "espelho-de-bolsa",
+      "descricao": "Pequeno, com duas faces, para o retoque.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "pinceis-e-acessorios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 117,
+      "imagens": [
+        {
+          "url": "/produtos/espelho-de-bolsa.webp",
+          "largura": 695,
+          "altura": 1024,
+          "blur": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoIAAwAA4BaJZQCw7Dx+8IAAP2cqw5BBN9Bg+4kcX1oH0diI0tb9BE1q6uHcDzAAAA=",
+          "alt": "Espelho de bolsa",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-019",
+      "codigo": "MM-0019",
+      "nome": "Esmalte",
+      "slug": "esmalte",
+      "descricao": "Cores da estação, secagem rápida.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "perfumaria",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 118,
+      "imagens": [
+        {
+          "url": "/produtos/esmalte.webp",
+          "largura": 1024,
+          "altura": 683,
+          "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoMAAgAA4BaJYwCdAED85qv8gAA/uJY8zt/Tzoz9WSZtTJsIJ7+MIgbAHVWiHWv1SE91qN85ywXIYYRlfQ1u4ijCOiBjXJRBgAAAA==",
+          "alt": "Esmalte",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-020",
+      "codigo": "MM-0020",
+      "nome": "Body splash",
+      "slug": "body-splash",
+      "descricao": "Perfume leve para o dia a dia, em várias fragrâncias.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "perfumaria",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 119,
+      "imagens": [
+        {
+          "url": "/produtos/body-splash.webp",
+          "largura": 1024,
+          "altura": 683,
+          "blur": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACQAQCdASoMAAgAA4BaJZQAAxfkolgA/vPu2e4MxnQ6d9fKATKNi+BlAAA=",
+          "alt": "Body splash",
+          "ordem": 0
+        }
+      ]
+    }
+  ],
+  "hero": [
+    {
+      "url": "/produtos/lip-plumper-gloss-vivai.webp",
+      "largura": 1080,
+      "altura": 1350,
+      "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoKAAwAA4BaJaACdAD0QW/9zsAAzj6oLB/xU3oQa51zSs/z6ES6crrdIqfd33ZX3HUqj0HvgKVbnrQ8qJSbYi1Cy23dm8HcYtYiiWAA",
+      "alt": "Lip Plumper Gloss Vivai",
+      "ordem": 0,
+      "slug": "lip-plumper-gloss-vivai"
+    },
+    {
+      "url": "/produtos/marshmallow-blush-body-splash.webp",
+      "largura": 1080,
+      "altura": 1080,
+      "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwAgCdASoMAAwAA4BaJbAC7AELYFuxPaVwAAD+79IuIalHaNgTSuIeNMWGveSo5giKubSPe3+cfOq4aB1PwLfnNQvp/Y4E0KtOmLAAAAA=",
+      "alt": "Marshmallow Blush Body Splash",
+      "ordem": 0,
+      "slug": "marshmallow-blush-body-splash"
+    },
+    {
+      "url": "/produtos/mascara-de-cilios.webp",
+      "largura": 1024,
+      "altura": 683,
+      "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoMAAgAA4BaJYwC7AEDeTQrsgAA/thxuItUXFJdkRUZkBPKHTxBhpr/cSujZPk+dLAeaVyF0cWyKICUg4gcSan7r4GiAAAA",
+      "alt": "Máscara de cílios",
+      "ordem": 0,
+      "slug": "mascara-de-cilios"
+    },
+    {
+      "url": "/produtos/paleta-de-sombras.webp",
+      "largura": 1024,
+      "altura": 683,
+      "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoMAAgAA4BaJYgCdAYrJZor6k4AAP7mSEddrfl6zxyKrLQjQgjiBWf/X3W9jRe3a1dnaKMLQt64WAIIw8FQM8vThrwAKM0zCcdL71f03tDC0hSAAAA=",
+      "alt": "Paleta de sombras",
+      "ordem": 0,
+      "slug": "paleta-de-sombras"
+    },
+    {
+      "url": "/produtos/blush.webp",
+      "largura": 737,
+      "altura": 1023,
+      "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoJAAwAA4BaJZgCdADzVM6wAP7AfrHbgTN6Ei8r6Tg6S+F1QWuESY0ScGDAdMbsXCXKV+9b+Fnuk/NcMlvSQZ9g/CSAAA==",
+      "alt": "Blush",
+      "ordem": 0,
+      "slug": "blush"
+    },
+    {
+      "url": "/produtos/kit-de-pinceis.webp",
+      "largura": 1024,
+      "altura": 683,
+      "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMAAgAA4BaJQBWACBvevR944AA/tegCol34j3Mii0q+zTTCIPizd0/A+vhhYN4Dsg9bL5DDSH5ZZExkMQAAA==",
+      "alt": "Kit de pincéis",
+      "ordem": 0,
+      "slug": "kit-de-pinceis"
+    }
+  ]
+}
